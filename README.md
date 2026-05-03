@@ -24,7 +24,7 @@ I enjoy working on backend and distributed systems, and I'm progressively deepen
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| **Distributed Task Queue** | Celery-inspired task queue in Python with priority levels, exponential backoff retry, dead-letter queue and real-time WebSocket dashboard | `Python` `Redis` `asyncio` `FastAPI` `Docker` | 🔄 Active [**Distributed Task Queue**]([https://github.com/raffaele-fiorillo/nome-repo](https://github.com/raffaele-fiorillo/distributed-task-queue))|
+| **Distributed Task Queue** | Celery-inspired task queue in Python with priority levels, exponential backoff retry, dead-letter queue and real-time WebSocket dashboard | `Python` `Redis` `asyncio` `FastAPI` `Docker` | 🔄 Active |
 | **Container Orchestrator** | Minimal Docker orchestrator with REST API, periodic health checks, auto-restart and horizontal scaling — Kubernetes internals from scratch | `Python` `Docker SDK` `FastAPI` `SQLite` | 🔨 Planned |
 | **Observability Platform** | Distributed tracing system inspired by Jaeger: gRPC span collector, ClickHouse storage, flamegraph UI and configurable alerting on latency/error rate | `Python` `gRPC` `ClickHouse` `React` `Prometheus` | 🔨 Planned |
 | **CLI for GitOps** | GitOps automation CLI: YAML config diffing, multi-environment apply, auto-generated changelog and Slack/Telegram webhook notifications | `Python` `Typer` `GitHub API` `Docker` | 🔨 Planned |
