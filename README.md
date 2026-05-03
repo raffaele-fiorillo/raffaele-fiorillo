@@ -91,16 +91,6 @@ I enjoy working on backend and distributed systems, and I'm progressively deepen
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Raffaele's GitHub stats](https://github-readme-stats.vercel.app/api?username=raffaele-fiorillo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raffaele-fiorillo&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 <sub>Always learning · Always building</sub>
