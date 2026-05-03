@@ -22,18 +22,18 @@ I enjoy working on backend and distributed systems, and I'm progressively deepen
 
 ## 🚧 Currently Working On
 
-| Project | Description | Status |
-|---|---|---|
-| **Distributed Task Queue** | Fault-tolerant, Redis-backed task queue system with worker orchestration | 🔄 Active |
-| **Container Orchestrator** | Minimal container orchestration engine from scratch | 🔨 Planned |
-| **Observability Platform** | Distributed tracing, metrics and logging infrastructure | 🔨 Planned |
-| **CLI for GitOps** | Custom CLI tool for GitOps workflows and automation | 🔨 Planned |
-| **Query Engine** | Columnar query engine over Parquet/CSV files | 🔨 Planned |
-| **LLM Inference Server** | High-performance inference server for large language models | 🔨 Planned |
-| **RAG Pipeline** | Production-ready Retrieval-Augmented Generation pipeline | 🔨 Planned |
-| **Attention — Paper Reimplementation** | From-scratch reimplementation of the Attention mechanism | 🔨 Planned |
-| **MLOps Platform** | End-to-end MLOps platform with experiment tracking and model serving | 🔨 Planned |
-| **AI Agent** | Autonomous AI agent with persistent memory and tool use | 🔨 Planned |
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| **Distributed Task Queue** | Celery-inspired task queue in Python with priority levels, exponential backoff retry, dead-letter queue and real-time WebSocket dashboard | `Python` `Redis` `asyncio` `FastAPI` `Docker` | 🔄 Active [**Distributed Task Queue**]([https://github.com/raffaele-fiorillo/nome-repo](https://github.com/raffaele-fiorillo/distributed-task-queue))|
+| **Container Orchestrator** | Minimal Docker orchestrator with REST API, periodic health checks, auto-restart and horizontal scaling — Kubernetes internals from scratch | `Python` `Docker SDK` `FastAPI` `SQLite` | 🔨 Planned |
+| **Observability Platform** | Distributed tracing system inspired by Jaeger: gRPC span collector, ClickHouse storage, flamegraph UI and configurable alerting on latency/error rate | `Python` `gRPC` `ClickHouse` `React` `Prometheus` | 🔨 Planned |
+| **CLI for GitOps** | GitOps automation CLI: YAML config diffing, multi-environment apply, auto-generated changelog and Slack/Telegram webhook notifications | `Python` `Typer` `GitHub API` `Docker` | 🔨 Planned |
+| **Query Engine** | SQL-like engine over local Parquet/CSV/JSON files with predicate pushdown, column pruning and benchmark comparison against DuckDB | `Python` `Apache Arrow` `Parquet` `DuckDB` | 🔨 Planned |
+| **LLM Inference Server** | HuggingFace model server (LLaMA/Mistral) with continuous batching, INT8/INT4 quantization, SSE streaming and Prometheus-compatible metrics | `Python` `PyTorch` `HuggingFace` `FastAPI` `bitsandbytes` | 🔨 Planned |
+| **RAG Pipeline** | Production RAG system on Italian legal documents (GDPR, Codice Civile) with cross-encoder re-ranking, RAGAS evaluation and Streamlit chat UI | `Python` `LangChain` `Qdrant` `sentence-transformers` `RAGAS` | 🔨 Planned |
+| **Attention — Paper Reimplementation** | From-scratch PyTorch reimplementation of "Attention is All You Need" with RoPE, simplified Flash Attention and GQA variants — benchmarked on memory and throughput | `Python` `PyTorch` `einops` `matplotlib` | 🔨 Planned |
+| **MLOps Platform** | Full MLOps infrastructure: DVC data versioning, MLflow experiment tracking, GitHub Actions CI/CD pipeline, auto-deploy and Evidently AI drift monitoring | `Python` `MLflow` `DVC` `GitHub Actions` `Docker` `Evidently AI` | 🔨 Planned |
+| **AI Agent** | LLM agent with episodic memory (Qdrant), conversation compression, real tool use (web search, sandboxed code execution) and ReAct planning | `Python` `LangGraph` `Qdrant` `Docker` `ReAct` | 🔨 Planned |
 
 ---
 
