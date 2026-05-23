@@ -48,10 +48,6 @@ Currently focused on deepening my knowledge of machine learning and AI, while sh
 
 ---
 
-## 📊 GitHub Stats
-![Raffaele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raffaele-fiorillo&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&cache_seconds=1800)
-
----
 
 ## 📬 Connect
 
