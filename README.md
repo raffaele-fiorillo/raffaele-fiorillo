@@ -43,6 +43,7 @@ Currently focused on deepening my knowledge of machine learning and AI, while sh
 | Project | Description | Stack | Status |
 |--------|-------------|-------|--------|
 | [Distributed Task Queue](https://github.com/raffaele-fiorillo/distributed-task-queue) | Production-grade task queue with priority queues, exponential backoff retry, dead-letter queue and real-time WebSocket dashboard | Python, Redis, FastAPI | ✅ Live |
+| [Distributed Task Queue](https://github.com/raffaele-fiorillo/distributed-task-queue) | Production-grade task queue with priority queues, exponential backoff retry, dead-letter queue and real-time WebSocket dashboard | Python, Redis, FastAPI | ✅ Live |
 
 *More projects coming soon — follow along on [YouTube](https://youtube.com/@RaffaeleDev)*
 
