@@ -45,6 +45,8 @@ Currently focused on deepening my knowledge of machine learning and AI, while sh
 | [Distributed Task Queue](https://github.com/raffaele-fiorillo/distributed-task-queue) | Production-grade task queue with priority queues, exponential backoff retry, dead-letter queue and real-time WebSocket dashboard | Python, Redis, FastAPI | ✅ Live |
 | [EduQuery AI](https://github.com/raffaele-fiorillo/local-ai-assistant) | Local RAG assistant that reads university PDF notes and generates exam questions — 100% offline, no API key required | Python, Ollama, LangChain, ChromaDB, Streamlit | ✅ Live |
 | [LocalSearch](https://github.com/raffaele-fiorillo/localsearch) | Local Perplexity clone — searches the web, scrapes results, and streams cited answers via a local LLM. No API keys, no cloud | Python, FastAPI, DuckDuckGo, Jina AI, Ollama | ✅ Live |
+| [Sketch-to-App AI](https://github.com/raffaele-fiorillo/sketch-to-app-ai) | Transform hand-drawn wireframes and sketches into functional React & Tailwind web apps in 60 seconds via Vision LLMs. | Python, React, Tailwind CSS, OpenAI, Anthropic | ✅ Live |
+
 *More projects coming soon — follow along on [YouTube](https://youtube.com/@RaffaeleDev)*
 
 ---
