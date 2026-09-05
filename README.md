@@ -1,6 +1,6 @@
 # Hi, I'm Raffaele 👋
 
-Computer Engineering student with a passion for building real systems — from distributed infrastructure to AI-powered tools.
+Computer Engineering student with a passion for building real systems from distributed infrastructure to AI-powered tools.
 
 Currently focused on deepening my knowledge of machine learning and AI, while shipping projects that solve real problems.
 
