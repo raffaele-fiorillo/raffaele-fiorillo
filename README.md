@@ -1,17 +1,10 @@
 # Hi, I'm Raffaele 👋
-
 Computer Engineering student with a passion for building real systems from distributed infrastructure to AI-powered tools.
-
 Currently focused on deepening my knowledge of machine learning and AI, while shipping projects that solve real problems.
-
 > *Built a production-grade distributed task queue with Redis & FastAPI. Now learning AI.*
-
 ---
-
 ## 🛠️ Tech Stack
-
 **Languages**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -21,25 +14,18 @@ Currently focused on deepening my knowledge of machine learning and AI, while sh
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
 **Tools & Platforms**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
 **Currently Learning**
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
 ---
-
 ## 🚀 Projects
-
 | Project | Description | Stack | Status |
 |--------|-------------|-------|--------|
 | [Distributed Task Queue](https://github.com/raffaele-fiorillo/distributed-task-queue) | Production-grade task queue with priority queues, exponential backoff retry, dead-letter queue and real-time WebSocket dashboard | Python, Redis, FastAPI | ✅ Live |
@@ -47,14 +33,9 @@ Currently focused on deepening my knowledge of machine learning and AI, while sh
 | [LocalSearch](https://github.com/raffaele-fiorillo/localsearch) | Local Perplexity clone — searches the web, scrapes results, and streams cited answers via a local LLM. No API keys, no cloud | Python, FastAPI, DuckDuckGo, Jina AI, Ollama | ✅ Live |
 | [Sketch-to-App AI](https://github.com/raffaele-fiorillo/sketch-to-app-ai) | Transform hand-drawn wireframes and sketches into functional React & Tailwind web apps in 60 seconds via Vision LLMs. | Python, React, Tailwind CSS, OpenAI, Anthropic | ✅ Live |
 | [local-devin](https://github.com/raffaele-fiorillo/local-devin) | Open-source autonomous coding agent powered by Ollama — runs 100% locally, no API key required. Built in 24 hours as a free alternative to Devin AI. | Python, Ollama, Docker, FastAPI, Qwen2.5-Coder | ✅ Live |
-
-*More projects coming soon — follow along on [YouTube](https://youtube.com/@RaffaeleDev)*
-
+*More projects coming soon.*
 ---
-
-
 ## 📬 Connect
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@RaffaeleDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffaele-fiorillo-9a0188418/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nvmlelee/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fiorilloraffaele.dev@gmail.com)
